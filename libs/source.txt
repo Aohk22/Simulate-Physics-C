@@ -1,0 +1,3 @@
+Compiled libraries from:
+https://github.com/libsdl-org/SDL_image	(version 3.1.0)
+https://github.com/libsdl-org/SDL		(version 3.1.6)
